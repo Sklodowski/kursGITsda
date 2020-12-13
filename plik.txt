@@ -1,1 +1,3 @@
 Zmiana w pliku NADPISANE.
+
+Dodanie nowej, eksperymentalnej funkcjonaności.
